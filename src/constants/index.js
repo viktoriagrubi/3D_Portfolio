@@ -72,7 +72,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
+    title: "React.js Developer Internship",
     company_name: "Wasko",
 
     iconBg: "#383E56",
